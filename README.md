@@ -10,6 +10,11 @@ Welcome to the **StackUp Community Q&A Bot**! This bot is designed to assist use
 - **Slash Command Integration**: Users can interact with the bot using the `/ask` slash command, making it easy and intuitive to get the information they need.
 - **Real-Time Updates**: The bot registers slash commands dynamically upon startup, ensuring that new commands and updates are immediately available to users.
 
+## Watch the Video
+
+Check out the demo video for this project on YouTube: [Watch Here](https://youtu.be/kxEPF4lr3Ac)
+
+
 ## 🛠️ Getting Started
 
 ### Prerequisites
